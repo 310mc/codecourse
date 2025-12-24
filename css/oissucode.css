@@ -1,0 +1,217 @@
+/** STARMAKER PRODUCTION **/
+div.os-unit[character~="Eichi"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/eichi.png);
+}
+div.os-unit[character~="Wataru"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/wataru.png);
+}
+div.os-unit[character~="Tori"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/tori.png);
+}
+div.os-unit[character~="Yuzuru"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/yuzuru.png);
+}
+
+
+div.os-unit[character~="Hokuto"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/hokuto.png);
+}
+div.os-unit[character~="Subaru"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/subaru.png);
+}
+div.os-unit[character~="Makoto"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/makoto.png);
+}
+div.os-unit[character~="Mao"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/mao.png);
+}
+
+
+div.os-unit[character~="Tetora"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/tetora.png);
+}
+div.os-unit[character~="Midori"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/midori.png);
+}
+div.os-unit[character~="Shinobu"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/shinobu.png);
+}
+div.os-unit[character~="Chiaki"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/chiaki.png);
+}
+div.os-unit[character~="Kanata"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/kanata.png);
+}
+
+
+div.os-unit[character~="Hiiro"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/hiiro.png);
+}
+div.os-unit[character~="Aira"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/aira.png);
+}
+div.os-unit[character~="Mayoi"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/mayoi.png);
+}
+div.os-unit[character~="Tatsumi"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/tatsumi.png);
+}
+
+/** COSMIC PRODUCTION **/
+div.os-unit[character~="Nagisa"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/nagisa.png);
+}
+div.os-unit[character~="Hiyori"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/hiyori.png);
+}
+div.os-unit[character~="Ibara"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/ibara.png);
+}
+div.os-unit[character~="Jun"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/jun.png);
+}
+
+
+div.os-unit[character~="Shu"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/shu.png);
+}
+div.os-unit[character~="Mika"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/mika.png);
+}
+
+
+div.os-unit[character~="Hinata"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/hinata.png);
+}
+div.os-unit[character~="Yuuta"] img.os-identifier, div.os-unit[character~="Yuta"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/yuta.png);
+}
+/** Put a space before Yuuta/Yuta to show long haired Yuuta **/
+div.os-unit[character=" Yuuta"] img.os-identifier, div.os-unit[character=" Yuta"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/yutalonghair.png) !important;
+}
+
+
+div.os-unit[character~="Rinne"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/rinne.png);
+}
+div.os-unit[character~="HiMERU"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/himeru.png);
+}
+div.os-unit[character~="Kohaku"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/kohaku.png);
+}
+div.os-unit[character~="Niki"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/niki.png);
+}
+
+/** Rhythm Link **/
+div.os-unit[character~="Rei"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/rei.png);
+}
+div.os-unit[character~="Kaoru"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/kaoru.png);
+}
+div.os-unit[character~="Koga"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/koga.png);
+}
+div.os-unit[character~="Adonis"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/adonis.png);
+}
+
+
+div.os-unit[character~="Tomoya"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/tomoya.png);
+}
+div.os-unit[character~="Nazuna"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/nazuna.png);
+}
+div.os-unit[character~="Mitsuru"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/mitsuru.png);
+}
+div.os-unit[character~="Hajime"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/hajime.png);
+}
+
+
+div.os-unit[character~="Keito"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/keito.png);
+}
+div.os-unit[character~="Kuro"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/kuro.png);
+}
+div.os-unit[character~="Souma"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/souma.png);
+}
+
+/** NEW DIMENSION **/
+div.os-unit[character~="Tsukasa"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/tsukasa.png);
+}
+div.os-unit[character~="Leo"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/leo.png);
+}
+div.os-unit[character~="Izumi"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/izumi.png);
+}
+div.os-unit[character~="Ritsu"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/ritsu.png);
+}
+div.os-unit[character~="Arashi"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/arashi.png);
+}
+
+
+div.os-unit[character~="Natsume"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/natsume.png);
+}
+div.os-unit[character~="Tsumugi"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/tsumugi.png);
+}
+div.os-unit[character~="Sora"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/sora.png);
+}
+
+
+div.os-unit[character~="Madara"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/madara.png);
+}
+
+/** NEW FACE **/
+div.os-unit[character~="Esu"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/esu.png);
+}
+div.os-unit[character~="Ibuki"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/ibuki.png);
+}
+div.os-unit[character~="Kanna"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/kanna.png);
+}
+div.os-unit[character~="Fuyume"] img.os-identifier, div.os-unit[character~="Yume"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/fuyume.png);
+}
+div.os-unit[character~="Raika"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/raika.png);
+}
+
+/** Thunderbolt Entertainment **/
+div.os-unit[character~="Nice"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/nice.png);
+}
+div.os-unit[character~="Juis"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/juis.png);
+}
+div.os-unit[character~="Nozomi"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/nozomi.png);
+}
+div.os-unit[character~="Mashu"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/mashu.png);
+}
+div.os-unit[character~="Chitose"] img.os-identifier {
+  content: url(https://cdn.jsdelivr.net/gh/310mc/codecourse/img/oissu/chitose.png);
+}
+
+/** Recurring Characters **/
+div.os-unit[character~="Kaname"] img.os-identifier {
+  content: url(https://files.catbox.moe/lagc7e.png);
+}
